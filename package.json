@@ -1,0 +1,25 @@
+{
+  "name": "Promise-tests",
+  "version": "1.0.0",
+  "description": "A series of tests to see which Promise Implementation is faster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OllieJennings/Promise-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OllieJennings/Promise-tests/issues"
+  },
+  "homepage": "https://github.com/OllieJennings/Promise-tests",
+  "dependencies": {
+    "benchmark": "^1.0.0",
+    "bluebird": "^2.9.24",
+    "es6-promise": "^2.0.1",
+    "rsvp": "^3.0.18"
+  }
+}
